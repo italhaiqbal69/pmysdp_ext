@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500208803080",
+    "project_id": "pmysdext",
+    "storage_bucket": "pmysdext.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500208803080:android:911f8b2d47f534fc3020bd",
+        "android_client_info": {
+          "package_name": "com.example.summerofcode_ext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAiAkU_3wZHJKR6_kvxKUtEzpHrUTKFgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
